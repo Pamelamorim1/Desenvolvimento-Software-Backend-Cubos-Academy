@@ -1,4 +1,4 @@
-![logo da Cubos Academy e Ifood](https://drive.google.com/uc?export=download&id=10-ZFTdQXxyWOiUyeN3ZcNYWgvStJAyOL)
+![logo da Cubos Academy e Ifood](https://docs.google.com/uc?id=10DqfZToRMyQRRwQ1adHfV2szaQlgCSI-)
 # Desenvolvimento de Software - Backend
 Projeto desenvolvido pela Cubos Academy em parceria com o Ifood que tem como objetivo desenvolver programadores Back-End com foco em JavaScript com Node.Js e Banco de Dados para proporcionar novos conhecimentos sobre a área de tecnologia e habilidades para nosso crescimento no mercado de trabalho.
 

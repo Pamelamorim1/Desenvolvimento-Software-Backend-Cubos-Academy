@@ -1,4 +1,4 @@
-# Desenvolvimento de Softwel - Backend - Cubos Academy
+# Desenvolvimento de Software - Backend - Cubos Academy
 Projeto desenvolvido pela Cubos Academy em parceria com o Ifood que tem como objetivo desenvolver programadores Back-End com foco em JavaScript com Node.Js e Banco de Dados para proporcionar novos conhecimentos sobre a área de tecnologia e habilidades para nosso crescimento no mercado de trabalho.
 
 > Status: Em andamento :dart:	

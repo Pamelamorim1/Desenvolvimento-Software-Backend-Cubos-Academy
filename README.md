@@ -69,7 +69,7 @@ Caso queira visualizar [Link para Métodos Arrays](https://github.com/Pamelamori
 
 Conforme o conhecimento foi avançando existe a necessidade de se entender outros tipos de métodos que pode ser utilizado em diversos tipos de dados, com isso foi explicado alguns que podem facilitar na estrutura de strings, como replace, ToUppercase, ToLowercase, padStart etc. Vale ressaltar que existem alguns métodos que podem ser utilizados tanto na manipulação de arrays ou string.
 
-Caso queira visualizar [Link para Métodos String](https://github.com/Pamelamorim1/DesenvolvimentoSoftwareBackendCubosAcademy/tree/main/aulas/metodos-string).
+Caso queira visualizar [Link para Métodos String](https://github.com/Pamelamorim1/DesenvolvimentoSoftwareBackendCubosAcademy/tree/main/aulas/metodos-strings).
 
 ### :mag_right: Servidor
 

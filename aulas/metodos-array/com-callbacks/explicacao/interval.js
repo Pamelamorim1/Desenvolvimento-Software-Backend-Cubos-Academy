@@ -1,8 +1,8 @@
 const recepcao = () => {
     console.log('Bem vindo!');
-    console.log(intervalo._idleTimeout);
-    console.log(intervalo);
-    clearInterval(intervalo);
+    // console.log(intervalo._idleTimeout);
+    // console.log(intervalo);
+    // clearInterval(intervalo);
 }
 
 // setInterval(recepcao, 2000);
